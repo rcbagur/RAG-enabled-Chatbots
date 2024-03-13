@@ -1,6 +1,6 @@
 # Interactive Chatbot Using OpenAI
 
-This project demonstrates how to create an interactive chatbot that leverages OpenAI's embeddings and GPT models to answer questions based on a provided context. The chatbot finds the most relevant context from a pre-processed dataset and generates answers to user-input questions.
+This project demonstrates how to create an interactive chatbot that leverages OpenAI's embeddings and GPT models to answer questions based on a provided context from a website. The code generates a vector database from a url which is used by the chatbot to find the most relevant context and generates answers to user-input questions.
 
 ## Getting Started
 
